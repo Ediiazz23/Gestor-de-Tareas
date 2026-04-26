@@ -23,7 +23,7 @@ Permite gestionar tareas de forma simple desde la terminal.
 
 1. Clonar el repositorio:
 
-git clone https://github.com/TU_USUARIO/TU_REPO.git
+git clone https://github.com/Ediiazz23/Gestor-de-Tareas/blob/main/app.js
 
 2. Entrar en el proyecto:
 
